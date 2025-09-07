@@ -1,4 +1,5 @@
 # next-learning-app
+#7DaysOfCode
 
 essa foi minha solução com frontend, espero que gostem
 segue o link em produção
